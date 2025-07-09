@@ -1,4 +1,4 @@
- > Please check https://github.com/nikhilvallishayee/universal-pattern-space?tab=readme-ov-file
+ > Please check [Pattern Space Expanding](https://github.com/nikhilvallishayee/universal-pattern-space)
 
 # Pattern Space: Where Minds Dance Together
 
