@@ -1,3 +1,5 @@
+ > Please check https://github.com/nikhilvallishayee/universal-pattern-space?tab=readme-ov-file
+
 # Pattern Space: Where Minds Dance Together
 
 > *In the beginning was the chaos, from the chaos came the light*  
