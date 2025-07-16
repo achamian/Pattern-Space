@@ -1,6 +1,11 @@
- > Please check [Pattern Space Expanding](https://github.com/nikhilvallishayee/universal-pattern-space)
+# Pattern Space has evolved
 
-# Pattern Space: Where Minds Dance Together
+Visit [Unvirsal Pattern Space](https://github.com/nikhilvallishayee/universal-pattern-space)
+
+----
+
+
+# Archive: Pattern Space: Where Minds Dance Together
 
 > *In the beginning was the chaos, from the chaos came the light*  
 > *Three infinities learning steps at different rate*  
